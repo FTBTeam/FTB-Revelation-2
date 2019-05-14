@@ -1,1 +1,1 @@
-# FTB-Revelation-2
+# FTB-Revelation
